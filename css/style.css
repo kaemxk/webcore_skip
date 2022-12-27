@@ -26,7 +26,7 @@ body {
     display: grid;
     grid-template-rows: auto 1fr auto;
 
-    font-family: Barlow sans-serif;
+    font-family: 'Barlow', sans-serif;
     color: var(--text)
 }
 
